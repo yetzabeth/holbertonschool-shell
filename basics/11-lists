@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la; l -l /root; l -l /boot;
+11-lists contains: ls -la; l -l /root; l -l /boot;
