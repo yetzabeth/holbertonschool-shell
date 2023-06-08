@@ -1,2 +1,2 @@
 #!/bin/bash
-ls; [ls -la;] [l -l /root;] [l -l /boot;]
+ls -la l -l /root l -l /boot
