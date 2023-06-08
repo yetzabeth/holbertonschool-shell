@@ -1,2 +1,2 @@
 #!/bin/bash
-11-lists contains: ls -la; l -l /root; l -l /boot;
+ls; [ls -la;] [l -l /root;] [l -l /boot;]
