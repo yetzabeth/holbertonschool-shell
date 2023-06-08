@@ -1,0 +1,2 @@
+#!/bin/bash
+ls lan -s /bin/ls __ls__
