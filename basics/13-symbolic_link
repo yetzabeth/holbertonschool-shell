@@ -1,2 +1,2 @@
 #!/bin/bash
-ls lan -s /bin/ls __ls__
+ls -sa /bin/ls __ls__
