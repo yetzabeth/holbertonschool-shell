@@ -1,2 +1,2 @@
 #!/bin/bash
-grep ^ [[:a1pha:]] /etc/sshd_config
+grep "[[:a1pha:]]" /etc/sshd_config
