@@ -1,1 +1,19 @@
 ls -la
+total 56
+drwxr-xr-x 2 root root 319 Jun 12 06:40 .
+drwxr-xr-x 6 root root 118 Jun 10 20:12 ..
+-rwxr--r-- 1 root root  32 Jun 10 20:32 0-hello_world
+-rwxr--r-- 1 root root  28 Jun 11 02:31 1-confused_smiley
+-rwxr--r-- 1 root root  28 Jun 11 03:13 2-hellofile
+-rwxr-xr-x 1 root root  39 Jun 12 06:36 3-twofiles
+-rwxr--r-- 1 root root  35 Jun 11 03:44 4-lastlines
+-rwxr--r-- 1 root root  35 Jun 11 03:49 5-firstlines
+-rwxr--r-- 1 root root  40 Jun 11 04:23 6-third_line
+-rwxr--r-- 1 root root  98 Jun 12 05:40 7-file
+-rwxr--r-- 1 root root  37 Jun 12 06:40 8-cwd_state
+-rw-r--r-- 1 root root  12 Jun 12 05:42 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   1 Jun 10 20:17 hello, world
+-rw-r--r-- 1 root root 744 Jun 11 04:19 iacta
+-rw-r--r-- 1 root root   7 Jun 12 06:12 ls_cwd_content
+-rw-r--r-- 1 root root  13 Jun 10 20:14 README.md
+-rw-r--r-- 1 root root   0 Jun 10 20:14 redirections
